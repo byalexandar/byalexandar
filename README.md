@@ -1,4 +1,4 @@
-<p align="center">Hi there! I'm Ahmad Shaid, a Developer with a passion for open-source projects and community engagement. I'm eager to apply my knowledge and skills in the Blockchain world to help organizations develop strategic solutions for their digital transformation processes.</p>
+<p align="center">Hello! I am Ahmad Shaid, a Developer passionate about open source projects and community engagement. I am willing to apply my knowledge and skills in the blockchain world.</p>
 
 
 
